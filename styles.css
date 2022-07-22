@@ -1,7 +1,7 @@
 body{
     color:antiquewhite;
-    background-color:blueviolet;
+    background-color: lightblue;
 }
-h1 {color:black; background-color:blueviolet}
-h3 {color:antiquewhite; background-color:brown}
+h1 {color:black; background-color:lightblue}
+h3 {color:antiquewhite; background-color: gray}
 a {color:antiquewhite;}
