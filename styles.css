@@ -1,7 +1,7 @@
 body{
-    color:antiquewhite;
-    background-color: lightblue;
+    color:gray;
+    background-color: lightskyblue;
 }
-h1 {color:black; background-color:lightblue}
-h3 {color:antiquewhite; background-color: gray}
-a {color:antiquewhite;}
+h1 {color: darkgray; background-color:lightblue}
+h3 {color: darkgray; background-color: lightseagreen}
+a {color: gray;}
