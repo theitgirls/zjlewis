@@ -1,7 +1,16 @@
-body{
+body {
     color:gray;
     background-color: lightblue;
+    font-family: 'Cormorant SC', serif;
 }
-h1 {color: darkgray; background-color:aliceblue}
-h3 {color: darkgray; background-color:aliceblue}
+h1 {
+    color: darkgray; 
+    background-color:aliceblue;
+    font-family:'Cormorant SC', serif;
+}
+h3 {
+    color: darkgray; 
+    background-color:aliceblue;
+    font-family:'Cormorant SC', serif;
+}
 a {color: gray;}
