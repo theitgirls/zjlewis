@@ -1,20 +1,20 @@
 body {
-    color: gray;
+    color:darkgray;
     background-color: lightblue;
     font-family: 'Cormorant SC', serif;
 }
 h1 {
-    color: rgb(70, 66, 66); 
+    color:gray;
     background-color:aliceblue;
     font-family:'Cormorant SC', serif;
 }
 h2 {
-    color:rgb(70, 66, 66);; 
+    color:gray;
     background-color:aliceblue;
     font-family:'Cormorant SC', serif;
 }
 h3 {
-    color:rgb(70, 66, 66);; 
+    color:gray;
     background-color:aliceblue;
     font-family:'Cormorant SC', serif;
 }
