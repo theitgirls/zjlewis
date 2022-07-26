@@ -19,7 +19,7 @@ h3 {
     font-family:'Cormorant SC', serif;
 }
 
-nav {background-color:rgb(103, 103, 253);}
+nav {background-color:rgb(156, 156, 245);}
 
 nav a {color:white;}
 nav {color:white;}
@@ -28,5 +28,5 @@ nav a:hover {background-color:gray;}
 nav {
     padding: 10px;
     margin-bottom:30px;
-    background-color:rgb(103, 103, 253);
+    background-color:rgb(156, 156, 245);
     }
