@@ -19,4 +19,9 @@ h3 {
     font-family:'Cormorant SC', serif;
 }
 
-nav {background-color:slategray}
+nav {background-color:slategray;}
+
+nav a {color:white;}
+nav {color:white;}
+
+nav a:hover {background-color:gray;}
