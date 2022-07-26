@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>First JavaScript</title>
+        <script>
+            function firstfunction () {
+                alert("Hello IT Girls Students!");
+            }
+
+            function secondfunction () {
+                alert("Let's do a second alert.");
+            }
+
+            function changecolor () {
+                document.getElementById("wendy").style.backgroundColor =
+                    document.getElementById("colorpicker").value;
+            }
+
+            function wrong () {
+                document.getElementById("rightanswer").innerHTML = "True is not correct.";
+            }
+
+            function right () {
+                document.getElementById("wronganswer").innerHTML = "Good job! False is correct.";
+            }
+        </script>
+    </head>
+    <body onload="firstfunction();" id="wendy">
+        <h1>IT Girls</h1>
+        <p>This is our first JavaScript program.</p>
+        <a onclick="secondfunction();">Click for secret message.</a>
+
+        <form>
+            <input type="color" id="colorpicker" onchange="changecolor();">
+        </form>
+
+        <p>True - False: Java and JavaScript are the same thing.</p>
+        <a id="wronganswer" onclick="wrong();">True</a>
+        <a id="rightanswer" onclick="right();">False</a>
+    </body>
+</html>
