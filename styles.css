@@ -24,7 +24,7 @@ nav {background-color:rgb(156, 156, 245);}
 nav a {color:white;}
 nav {color:white;}
 
-nav a:hover {background-color:gray;}
+nav a:hover {background-color:rgb(185, 179, 179);}
 nav {
     padding: 10px;
     margin-bottom: 30px;
