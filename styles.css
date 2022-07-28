@@ -30,3 +30,11 @@ nav {
     margin-bottom: 30px;
     background-color:rgb(168, 168, 250);
     }
+
+div {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 25px;
+}
