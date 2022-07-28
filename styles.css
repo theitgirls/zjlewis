@@ -21,8 +21,8 @@ h3 {
 
 nav {background-color:aliceblue;}
 
-nav a {color:white;}
-nav {color:white;}
+nav a {color:blue;}
+nav {color:blue;}
 
 nav a:hover {background-color:rgb(185, 179, 179);}
 nav {
