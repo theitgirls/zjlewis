@@ -38,3 +38,8 @@ div {
     background-color: white;
     border-radius: 25px;
 }
+
+.banner {
+    margin-right: auto;
+    margin-left: auto;
+}
